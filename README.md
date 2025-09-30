@@ -2,7 +2,7 @@
 
 1. Clone & Build Project
 
-git clone https://github.com/<your-username>/expense-sharing-app.git
+git clone https://github.com/newbee-naz/expense-sharing-app.git
 cd expense-sharing-app
 mvn clean install
 
